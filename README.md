@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am currently a student at ODU for computer science.
+
+I am most proficient in java, but I am learning Python, C++, and Rust in my classes
 <!--
 **cs-ssipe001/cs-ssipe001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
